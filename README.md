@@ -1,9 +1,19 @@
 <div align="center">
   <img src="imagenes/banner.svg" alt="Banner de Gonzalo Morales, estudiante de ASIR" width="100%">
-
-  <h1>¡Hola! Soy Gonzalo Morales 👋</h1>
-  <p><strong>Estudiante de Administración de Sistemas Informáticos en Red (ASIR)</strong></p>
 </div>
+
+<table width="100%">
+  <tr>
+    <td valign="middle">
+      <strong>Estudiante de Administración de Sistemas Informáticos en Red (ASIR)</strong>
+      <br>
+      Interesado en sistemas, redes y tecnología.
+    </td>
+    <td align="right" width="180">
+      <img src="imagenes/gonzalo-perfil.jpg" alt="Foto de Gonzalo Morales" width="130">
+    </td>
+  </tr>
+</table>
 
 ## Sobre mí
 
@@ -25,7 +35,7 @@ Tengo un **grado medio de Sistemas Microinformáticos y Redes (SMR)** y actualme
 Me interesa entender cómo se comunican los dispositivos y cómo se organizan los servicios dentro de una red.
 
 <div align="center">
-  <img src="imagenes/redes.svg" alt="Diagrama de una red con Internet, un router, un switch, equipos cliente y un servidor" width="85%">
+  <img src="imagenes/redes.gif" alt="Animación de datos viajando por una red desde Internet hasta los equipos y el servidor" width="85%">
 </div>
 
 ## Mi objetivo
